@@ -1,0 +1,14 @@
+.jumbotron {
+  background-image: url("../images/denali.jpg");
+  margin-bottom: 0;
+  min-height: 50%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: azure;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+  background-color: burlywood;
+}
